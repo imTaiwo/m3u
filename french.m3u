@@ -1,0 +1,257 @@
+#EXTM3U 
+#EXTINF: -1 tvg-name="TF1" tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/77/TF1_%282013%29.svg" group-title="General", TF1
+http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/14.m3u8
+#EXTINF: -1 tvg-name="France 2" tvg-chno="2" group-title="General", France 2
+http://iptvpro.vision-new.org:8789/live/sabri/skype/160.m3u8
+#EXTINF: -1 tvg-name="France 3" tvg-chno="3" group-title="General", France 3
+http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/4.m3u8
+#EXTINF: -1 tvg-name="Canal+" tvg-chno="4" group-title="General", Canal+
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14157.m3u8
+#EXTINF: -1 tvg-name="France 5" tvg-chno="5" group-title="General", France 5
+http://iptvpro.vision-new.org:8789/live/sabri/skype/157.m3u8
+#EXTINF: -1 tvg-name="M6" tvg-chno="6" group-title="General", M6
+http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/7.m3u8
+#EXTINF: -1 tvg-name="Arte" tvg-chno="7" group-title="General", Arte
+http://iptvpro.vision-new.org:8789/live/sabri/skype/114.m3u8
+#EXTINF: -1 tvg-name="C8" tvg-chno="8" group-title="General", C8
+http://104.218.60.145:83/live/Delmacostello/8023634654/376297.m3u8
+#EXTINF: -1 tvg-name="W9" tvg-chno="9" group-title="General", W9
+http://iptvpro.vision-new.org:8789/live/sabri/skype/776.m3u8
+#EXTINF: -1 tvg-name="TMC" tvg-chno="10" group-title="General", TMC
+http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/10.m3u8
+#EXTINF: -1 tvg-name="TFX" tvg-chno="11" group-title="General", TFX
+http://iptvpro.vision-new.org:8789/live/sabri/skype/442.m3u8
+#EXTINF: -1 tvg-name="NRJ12" tvg-chno="12" group-title="General", NRJ12
+http://iptvpro.vision-new.org:8789/live/sabri/skype/241.m3u8
+#EXTINF: -1 tvg-name="France 4" tvg-chno="14" group-title="General", France 4
+http://iptvpro.vision-new.org:8789/live/sabri/skype/158.m3u8
+#EXTINF: -1 tvg-name="BFM TV" tvg-chno="15" group-title="General", BFM TV
+http://iptvpro.vision-new.org:8789/live/sabri/skype/155.m3u8
+#EXTINF: -1 tvg-name="CNews" tvg-chno="16" group-title="General", CNEWS
+http://iptvpro.vision-new.org:8789/live/sabri/skype/186.m3u8
+#EXTINF: -1 tvg-name="CSTAR" tvg-chno="17" group-title="General", CSTAR
+http://iptvpro.vision-new.org:8789/live/sabri/skype/187.m3u8
+#EXTINF: -1 tvg-name="Gulli" tvg-chno="18" group-title="General", Gulli
+http://104.218.60.145:83/live/Delmacostello/8023634654/376330.m3u8
+#EXTINF: -1 tvg-name="France Ô" tvg-chno="19" group-title="General", France Ô
+http://iptvpro.vision-new.org:8789/live/sabri/skype/161.m3u8
+#EXTINF: -1 tvg-name="TF1 Séries Films" tvg-chno="20" group-title="General", TF1 Séries Films
+http://iptvpro.vision-new.org:8789/live/sabri/skype/108.m3u8
+#EXTINF: -1 tvg-name="L'Equipe" tvg-chno="21" group-title="General", L'Equipe
+http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/15
+#EXTINF: -1 tvg-name="6ter" tvg-chno="22" group-title="General", 6Ter
+http://iptvpro.vision-new.org:8789/live/sabri/skype/110.m3u8
+#EXTINF: -1 tvg-name="RMC Découverte" tvg-chno="24" group-title="General", RMC Découverte
+http://104.218.60.145:83/live/Delmacostello/8023634654/376368.m3u8
+#EXTINF: -1 tvg-name="Téva" tvg-chno="54" group-title="General", Téva
+http://iptvpro.vision-new.org:8789/live/sabri/skype/189.m3u8
+#EXTINF: -1 tvg-name="Wéo" tvg-chno="35" group-title="General", WEO
+http://iptvpro.vision-new.org:8789/live/sabri/skype/503.m3u8
+#EXTINF: -1 tvg-chno="42" group-title="General", RTL9
+http://iptvhit.live/hadrikou/chaweftv.weebly.com/27-03-2020/193
+#EXTINF: -1 tvg-name="Syfy" tvg-chno="51" group-title="General", SYFY
+http://iptvpro.vision-new.org:8789/live/sabri/skype/194.m3u8
+#EXTINF: -1 tvg-name="VICELAND" tvg-chno="83" group-title="General", VICELAND
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13772.m3u8
+#EXTINF: -1 tvg-name="13e Rue" tvg-chno="200" group-title="FR", 13EME RUE
+http://104.218.60.145:83/live/Delmacostello/8023634654/376279.m3u8
+#EXTINF: -1 tvg-name="BOING" tvg-chno="154" group-title="FR", Boing
+http://104.218.60.145:83/live/Delmacostello/8023634654/376272.m3u8
+#EXTINF: -1 tvg-name="BOOMERANG" tvg-chno="145" group-title="FR", BOOMERANG
+http://104.218.60.145:83/live/Delmacostello/8023634654/376271.m3u8
+#EXTINF: -1 tvg-name="CANAL J" tvg-chno="153" group-title="FR", CANAL J
+http://iptvpro.vision-new.org:8789/live/sabri/skype/454.m3u8
+#EXTINF: -1 tvg-name="CARTOON NETWORK" tvg-chno="150" group-title="FR", Cartoon Network
+http://iptvpro.vision-new.org:8789/live/sabri/skype/65.m3u8
+#EXTINF: -1 tvg-name="CHASSE ET PECHE" tvg-chno="132" group-title="FR", CHASSE&PECHE
+http://iptvpro.vision-new.org:8789/live/sabri/skype/287.m3u8
+#EXTINF: -1 tvg-name="CHERIE 25" tvg-chno="25" group-title="FR", CHERIE 25
+http://104.218.60.145:83/live/Delmacostello/8023634654/376313.m3u8
+#EXTINF: -1 tvg-name="Discovery Science" tvg-chno="65" group-title="FR", DISCOVERY SCIENCE
+http://iptvpro.vision-new.org:8789/live/sabri/skype/286.m3u8
+#EXTINF: -1 tvg-name="DISNEY CHANNEL" tvg-chno="149" group-title="FR", Disney Channel
+http://104.218.60.145:83/live/Delmacostello/8023634654/376342.m3u8
+#EXTINF: -1 tvg-name="DISNEY CINEMA" tvg-chno="62" group-title="FR", Disney Cinema
+http://104.218.60.145:83/live/Delmacostello/8023634654/376341.m3u8
+#EXTINF: -1 tvg-name="DISNEY JUNIOR" tvg-chno="142" group-title="FR", Disney Junior
+http://iptvhit.live/hadrikou/chaweftv.weebly.com/27-03-2020/233
+#EXTINF: -1 tvg-name="DISNEY XD" tvg-chno="156" group-title="FR", Disney XD
+http://iptvhit.live/hadrikou/chaweftv.weebly.com/27-03-2020/234
+#EXTINF: -1 tvg-name="E! Entertainement" tvg-chno="48" group-title="FR", E! Entertainement
+http://iptvpro.vision-new.org:8789/live/sabri/skype/289.m3u8
+#EXTINF: -1 tvg-name="FRANCE 24" tvg-chno="171" group-title="FR", FRANCE 24
+http://iptvpro.vision-new.org:8789/live/sabri/skype/162.m3u8
+#EXTINF: -1 tvg-name="GAME ONE" tvg-chno="168" group-title="FR", GAME ONE
+http://104.218.60.145:83/live/Delmacostello/8023634654/376331.m3u8
+#EXTINF: -1 tvg-chno="62" group-title="FR", MTV BASE
+http://iptvpro.vision-new.org:8789/live/sabri/skype/266.m3u8
+#EXTINF: -1 tvg-chno="56" group-title="FR", MTV LIVE HD
+http://iptvpro.vision-new.org:8789/live/sabri/skype/412.m3u8
+#EXTINF: -1 tvg-chno="61" group-title="FR", MTV MUSIC
+http://iptvpro.vision-new.org:8789/live/sabri/skype/265.m3u8
+#EXTINF: -1 tvg-chno="51" group-title="FR", National Geographic
+http://iptvpro.vision-new.org:8789/live/sabri/skype/285.m3u8
+#EXTINF: -1 tvg-chno="52" group-title="FR", National Geographic WILD
+http://iptvpro.vision-new.org:8789/live/sabri/skype/143.m3u8
+#EXTINF: -1 tvg-chno="47" group-title="FR", PLANETE+
+http://iptvpro.vision-new.org:8789/live/sabri/skype/271.m3u8
+#EXTINF: -1 tvg-chno="49" group-title="FR", PLANETE+ Aventure & Experience
+http://iptvpro.vision-new.org:8789/live/sabri/skype/247.m3u8
+#EXTINF: -1 tvg-chno="48" group-title="FR", PLANETE+ Crime Investigation
+http://iptvpro.vision-new.org:8789/live/sabri/skype/246.m3u8
+#EXTINF: -1 tvg-chno="76" group-title="FR", Télétoon +
+http://iptvhit.live/hadrikou/chaweftv.weebly.com/27-03-2020/237
+#EXTINF: -1 tvg-chno="116" group-title="FR", Tiji
+http://104.218.60.145:83/live/Delmacostello/8023634654/376385.m3u8
+#EXTINF: -1 tvg-chno="55" group-title="FR", Toute l'histoire
+http://iptvpro.vision-new.org:8789/live/sabri/skype/296.m3u8
+#EXTINF: -1 tvg-chno="117" group-title="FR", TRACE URBAN
+http://104.218.60.145:83/live/Delmacostello/8023634654/376399.m3u8
+#EXTINF: -1 tvg-chno="53" group-title="FR", TREK
+http://iptvpro.vision-new.org:8789/live/sabri/skype/389.m3u8
+#EXTINF: -1 tvg-chno="60" group-title="FR", TV5MONDE
+http://iptvpro.vision-new.org:8789/live/sabri/skype/309.m3u8
+#EXTINF: -1 tvg-chno="501" group-title="Canal Play", Canal Play 1 | Roi Arthur
+http://iptvpro.vision-new.org:8789/live/sabri/skype/165.m3u8
+#EXTINF: -1 tvg-chno="502" group-title="Canal Play", Canal Play 2 | Security
+http://iptvpro.vision-new.org:8789/live/sabri/skype/166.m3u8
+#EXTINF: -1 tvg-chno="503" group-title="Canal Play", Canal Play 3 | Captain Marvel
+http://iptvpro.vision-new.org:8789/live/sabri/skype/167.m3u8
+#EXTINF: -1 tvg-chno="504" group-title="Canal Play", Canal Play 4 | La Momie
+http://iptvpro.vision-new.org:8789/live/sabri/skype/168.m3u8
+#EXTINF: -1 tvg-chno="505" group-title="Canal Play", Canal Play 5 | Megan Leavey
+http://iptvpro.vision-new.org:8789/live/sabri/skype/169.m3u8
+#EXTINF: -1 tvg-chno="506" group-title="Canal Play", Canal Play 6 | Captive State
+http://iptvpro.vision-new.org:8789/live/sabri/skype/170.m3u8
+#EXTINF: -1 tvg-chno="507" group-title="Canal Play", Canal Play 7 | Alex, le destin d'un roi
+http://iptvpro.vision-new.org:8789/live/sabri/skype/171.m3u8
+#EXTINF: -1 tvg-chno="508" group-title="Canal Play", Canal Play 8 | Rim of the World
+http://iptvpro.vision-new.org:8789/live/sabri/skype/172.m3u8
+#EXTINF: -1 tvg-chno="509" group-title="Canal Play", Canal Play 9 | Jour J
+http://iptvpro.vision-new.org:8789/live/sabri/skype/173.m3u8
+#EXTINF: -1 tvg-chno="510" group-title="Canal Play", Canal Play 10 | Chez Nous
+http://iptvpro.vision-new.org:8789/live/sabri/skype/174.m3u8
+#EXTINF: -1 tvg-chno="511" group-title="Canal Play", Canal Play 11 | The Perfection
+http://iptvpro.vision-new.org:8789/live/sabri/skype/175.m3u8
+#EXTINF: -1 tvg-chno="512" group-title="Canal Play", Canal Play 12 | L'empereur de Paris
+http://iptvpro.vision-new.org:8789/live/sabri/skype/176.m3u8
+#EXTINF: -1 tvg-chno="513" group-title="Canal Play", Canal Play 13 | Don't Kill It
+http://iptvpro.vision-new.org:8789/live/sabri/skype/177.m3u8
+#EXTINF: -1 tvg-chno="514" group-title="Canal Play", Canal Play 14 |C O U
+http://iptvpro.vision-new.org:8789/live/sabri/skype/178.m3u8
+#EXTINF: -1 tvg-name="ACTION" tvg-chno="65" group-title="Cinema France FHD", ACTION
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13790.m3u8
+#EXTINF: -1 tvg-name="ALTICE STUDIO" tvg-chno="140" group-title="Cinema France FHD", ALTICE STUDIO
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13787.m3u8
+#EXTINF: -1 tvg-name="Canal+" tvg-chno="30" group-title="Cinema France FHD", Canal +
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14157.m3u8
+#EXTINF: -1 tvg-name="CANAL+CINÉMA" tvg-chno="31" group-title="Cinema France FHD", Canal+ CINEMA
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13769.m3u8
+#EXTINF: -1 tvg-name="Canal+DECALE" tvg-chno="35" group-title="Cinema France FHD", Canal+ DECALE
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13768.m3u8
+#EXTINF: -1 tvg-name="CANAL+FAMILY" tvg-chno="34" group-title="Cinema France FHD", Canal+ FAMILY
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13767.m3u8
+#EXTINF: -1 tvg-chno="70" group-title="Cinema France FHD", CANAL+ SERIES
+http://iptvpro.vision-new.org:8789/live/sabri/skype/69.m3u8
+#EXTINF: -1 tvg-name="CINE+ CLASSIC" tvg-chno="57" group-title="Cinema France FHD", CINE+ CLASSIC
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13758.m3u8
+#EXTINF: -1 tvg-name="CINE+ CLUB" tvg-chno="56" group-title="Cinema France FHD", CINE+ CLUB
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/47556.m3u8
+#EXTINF: -1 tvg-name="CINE+ EMOTION" tvg-chno="54" group-title="Cinema France FHD", CINE+ EMOTION
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13756.m3u8
+#EXTINF: -1 tvg-name="CINE+ FAMIZ" tvg-chno="55" group-title="Cinema France FHD", CINE+ FAMIZ
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13755.m3u8
+#EXTINF: -1 tvg-name="CINE+ FRISSON" tvg-chno="53" group-title="Cinema France FHD", CINE+ FRISSON
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13754.m3u8
+#EXTINF: -1 tvg-name="CINE+ PREMIER" tvg-chno="52" group-title="Cinema France FHD", CINE+ PREMIER
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13759.m3u8
+#EXTINF: -1 tvg-name="OCS Choc" tvg-chno="60" group-title="Cinema France FHD", OCS CHOC
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13834.m3u8
+#EXTINF: -1 tvg-name="OCS CITY" tvg-chno="59" group-title="Cinema France FHD", OCS CITY
+http://iptvhit.live/hadrikou/chaweftv.weebly.com/27-03-2020/212
+#EXTINF: -1 tvg-name="OCS Géants" tvg-chno="61" group-title="Cinema France FHD", OCS GEANTS
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13833.m3u8
+#EXTINF: -1 tvg-name="OCS Max" tvg-chno="58" group-title="Cinema France FHD", OCS MAX
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13825.m3u8
+#EXTINF: -1 tvg-name="PARAMOUNT CHANNEL" tvg-chno="64" group-title="Cinema France FHD", PARAMOUNT CHANNEL
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13713.m3u8
+#EXTINF: -1 tvg-name="SÉRIE CLUB" tvg-chno="75" group-title="Cinema France FHD", SERIE CLUB
+http://iptvpro.vision-new.org:8789/live/sabri/skype/193.m3u8
+#EXTINF: -1 tvg-name="TCM CINÉMA" tvg-chno="63" group-title="Cinema France FHD", TCM CINEMA
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13697.m3u8
+#EXTINF: -1 tvg-name="WARNER TV" tvg-chno="74" group-title="Cinema France FHD", WARNER TV
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13784.m3u8
+#EXTINF: -1 tvg-chno="600" group-title="ORANGE CINE", ORANGE CINE | The Witcher 24/7
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13926.m3u8
+#EXTINF: -1 tvg-chno="601" group-title="ORANGE CINE", ORANGE CINE 1
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13925.m3u8
+#EXTINF: -1 tvg-chno="602" group-title="ORANGE CINE", ORANGE CINE 2
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13924.m3u8
+#EXTINF: -1 tvg-chno="603" group-title="ORANGE CINE", ORANGE CINE 3
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13923.m3u8
+#EXTINF: -1 tvg-chno="604" group-title="ORANGE CINE", ORANGE CINE 4
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13922.m3u8
+#EXTINF: -1 tvg-chno="605" group-title="ORANGE CINE", ORANGE CINE 5
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13921.m3u8
+#EXTINF: -1 tvg-chno="606" group-title="ORANGE CINE", ORANGE CINE 6
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13920.m3u8
+#EXTINF: -1 tvg-chno="607" group-title="ORANGE CINE", ORANGE CINE 7
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13919.m3u8
+#EXTINF: -1 tvg-chno="97" group-title="SPORTS", Canal+ Sport
+http://104.218.60.145:83/live/Delmacostello/8023634654/376303.m3u8
+#EXTINF: -1 tvg-name="AUTOMOTO" tvg-chno="106" group-title="SPORTS", Automoto
+http://iptvpro.vision-new.org:8789/live/sabri/skype/781.m3u8
+#EXTINF: -1 tvg-name="RMC Sport News" tvg-chno="103" group-title="SPORTS", RMC SPORT NEWS
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/35031.m3u8
+#EXTINF: -1 tvg-name="RMC Sport 1" tvg-chno="99" group-title="SPORTS", RMC SPORT 1
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/32713.m3u8
+#EXTINF: -1 tvg-name="RMC Sport 2" tvg-chno="100" group-title="SPORTS", RMC SPORT 2
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/32714.m3u8
+#EXTINF: -1 tvg-name="RMC Sport 3" tvg-chno="101" group-title="SPORTS", RMC SPORT 3
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/32715.m3u8
+#EXTINF: -1 tvg-name="RMC Sport 4" tvg-chno="102" group-title="SPORTS", RMC SPORT 4
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/32721.m3u8
+#EXTINF: -1 tvg-name="BEIN SPORTS 1" tvg-chno="96" group-title="SPORTS", BEIN SPORTS 1
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14160.m3u8
+#EXTINF: -1 tvg-name="BEIN SPORTS 2" tvg-chno="97" group-title="SPORTS", BEIN SPORTS 2
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14159.m3u8
+#EXTINF: -1 tvg-name="BEIN SPORTS 3" tvg-chno="98" group-title="SPORTS", BEIN SPORTS 3
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14158.m3u8
+#EXTINF: -1 tvg-name="BeIN SPORTS MAX 4" tvg-chno="268" group-title="SPORTS", BEIN SPORTS MAX 4
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/95.m3u8
+#EXTINF: -1 tvg-name="beIN SPORTS MAX 5" tvg-chno="269" group-title="SPORTS", BEIN SPORTS MAX 5
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/39882.m3u8
+#EXTINF: -1 tvg-name="beIN SPORTS MAX 6" tvg-chno="270" group-title="SPORTS", BEIN SPORTS MAX 6
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1089.m3u8
+#EXTINF: -1 tvg-name="beIN SPORTS MAX 7" tvg-chno="271" group-title="SPORTS", BEIN SPORTS MAX 7
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1113.m3u8
+#EXTINF: -1 tvg-name="beIN SPORTS MAX 8" tvg-chno="272" group-title="SPORTS", BEIN SPORTS MAX 8
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1468.m3u8
+#EXTINF: -1 tvg-name="beIN SPORTS MAX 9" tvg-chno="273" group-title="SPORTS", BEIN SPORTS MAX 9
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/1469.m3u8
+#EXTINF: -1 tvg-chno="160" group-title="SPORTS", CANAL+ SPORT
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14161.m3u8
+#EXTINF: -1 tvg-name="MULTISPORTS 1" tvg-chno="253" group-title="SPORTS", MULTISPORTS 1
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13807.m3u8
+#EXTINF: -1 tvg-name="MULTISPORTS 2" tvg-chno="254" group-title="SPORTS", MULTISPORTS 2
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13802.m3u8
+#EXTINF: -1 tvg-name="MULTISPORTS 3" tvg-chno="255" group-title="SPORTS", MULTISPORTS 3
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13806.m3u8
+#EXTINF: -1 tvg-name="MULTISPORTS 4" tvg-chno="256" group-title="SPORTS", MULTISPORTS 4
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13805.m3u8
+#EXTINF: -1 tvg-name="MULTISPORTS 5" tvg-chno="257" group-title="SPORTS", MULTISPORTS 5
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13804.m3u8
+#EXTINF: -1 tvg-name="MULTISPORTS 6" tvg-chno="258" group-title="SPORTS", MULTISPORTS 6
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13803.m3u8
+#EXTINF: -1 tvg-chno="167" group-title="SPORTS", NBA TV
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/46216.m3u8
+#EXTINF: -1 tvg-name="INFOSPORT+" tvg-chno="91" group-title="SPORTS", INFOSPORT+
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13729.m3u8
+#EXTINF: -1 tvg-name="OL TV" tvg-chno="107" group-title="SPORTS", OLTV
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13842.m3u8
+#EXTINF: -1 tvg-chno="171" group-title="SPORTS", EXTREME SPORTS
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13740.m3u8
+#EXTINF: -1 tvg-name="EUROSPORT 360 1" tvg-chno="260" group-title="SPORTS", EUROSPORT 1
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14011.m3u8
+#EXTINF: -1 tvg-name="ERUSOPORT 360 2" tvg-chno="261" group-title="SPORTS", EUROSPORT 2
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/14010.m3u8
